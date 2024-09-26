@@ -10,8 +10,8 @@
       "enterCity": "Enter city, state or country"
     },
     "aboutDescriptions": {
-      "1": "Geoguess is a free and lazy geoguess game with no ads.                  Players compete how close the player can guess random locations in five rounds.                 You can share the score with other people via social media like Facebook or Twitter.                 You can play multiplayer games with your friends up to five friends.                  The first player creates a room and decides the room size. Other players type the same room name as the first player created and the game will start.",
-      "2": "This game was forked from "
+      "1": "Geoguess is a free version of the fan-favorite GeoGuessr game                  Players compete how close the player can guess random locations in five rounds.                 You can share the score with other people via social media like Facebook or Twitter.                 You can play multiplayer games with your friends up to five friends.                  The first player creates a room and decides the room size. Other players type the same room name as the first player created and the game will start.",
+      "2": "This open-source project was made with great contributions from "
     },
     "customMap": "CUSTOMS MAP",
     "customMapDescriptions": {
@@ -22,8 +22,8 @@
       "5": "Insert the content of the GeoJson map with the button :",
       "6": "Customs Map selection : "
     },
-    "limitation": "LIMITATION",
-    "limitationDescription": "Currently I set quotas per day so the cost to run this game can't get too high.             If the map doesn't load, it means the quota has been exceeded on the day.             It will reset at midnight Pacific Time. Sorry for the inconvenience.             This game is open source so you can build your own game server and play this game unlimitedly.",
+    "limitation": "NOTE",
+    "limitationDescription": "To keep things affordable, We’ve set daily limits on the game.              If the map doesn’t load, we’ve hit the cap for the day. Don’t worry, it resets at midnight Pacific Time!              If you’re loving the game and want to help me keep the servers running, feel free to buy me a coffee ☕—your support goes a long way!\n\n'The best is yet to come!  – Skealy'",
     "play": "Play",
     "streamerModeActivate": "Streamer mode activate",
     "streamerModeDetails": "URLs and room names are hidden",
