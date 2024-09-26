@@ -42,6 +42,8 @@
             </h3>
             <p class="section-description">
                 {{ $t('Home.limitationDescription') }}
+                <br>
+                'The best is yet to come! – Skealy'
             </p>
         </v-card-text>
     </v-card>
