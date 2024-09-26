@@ -23,7 +23,7 @@
                 <v-btn
                     icon
                     color="#FFFFFF"
-                    href="https://twitter.com/BilelJegham"
+                    href="https://x.com/skealy4u"
                 >
                     <v-icon size="30">
                         mdi-twitter
@@ -32,7 +32,7 @@
                 <v-btn
                     icon
                     color="#FFFFFF"
-                    href="https://www.instagram.com/geoguess.games/"
+                    href="https://www.instagram.com/skealy_ism/"
                 >
                     <v-icon size="30">
                         mdi-instagram
