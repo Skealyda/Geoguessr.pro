@@ -49,7 +49,9 @@
             </div>
 
             <div>
-                <a href="https://geoguess.games/">{{ $t('Header.about') }}</a>
+                <v-btn id="aboutBtn" text @click="aboutDialog = true">
+                    {{ $t('Header.about') }}
+                </v-btn>
             </div>
         </div>
     </footer>
